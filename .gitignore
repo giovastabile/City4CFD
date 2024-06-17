@@ -6,5 +6,4 @@ cmake-*
 Mesh*.json
 *.obj
 *.stl
-*.swp
-*.log
+examples/firenze*
